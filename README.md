@@ -12,8 +12,6 @@ python3 .\main.py -f .\movimentacao.csv
 
 ## ☕ Resultado
 
-Caso existam ações que anunciam dividendos no mês em que o arquivo foi executado, teremos então:
-
 * Uma lista das movimentações realizadas (Compra e Venda)
 * Uma lista dos dividendos recebidos
 * 🚧 Em construção
